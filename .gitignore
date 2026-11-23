@@ -1,0 +1,12 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+
+# Local run output (the grader writes here itself)
+/output/
+out/
+
+# Editors and OS files
+.DS_Store
+*.swp
+.vscode/
